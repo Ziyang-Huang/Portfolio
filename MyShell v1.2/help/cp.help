@@ -1,0 +1,17 @@
+CP(1)                            User Commands                           CP(1)
+
+NAME
+       cp - copy files and directories
+
+SYNOPSIS
+       cp [OPTION]... SOURCE... DIRECTORY
+
+DESCRIPTION
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       -r      copy directories recursively
+
+AUTHOR
+       Written by Huang Ziyang.
+
+myshell v1.2                       April 2016                            CP(1)

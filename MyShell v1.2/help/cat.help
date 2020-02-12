@@ -1,0 +1,25 @@
+CAT(1)                           User Commands                          CAT(1)
+
+NAME
+       cat - concatenate files and print on the standard output
+
+SYNOPSIS
+       cat [OPTION]... [FILE]...
+
+DISCRIPTION
+       Concatenate FILE(s), or standard input, to standard output.
+
+       --help dispaly this help and exit
+
+       With no FILE, or when FILE is -, read standard input.
+
+EXAMPLE
+
+       cat f
+              
+       cat    Copy standard input to standard output.
+
+AUTHOR
+       Written by Huang Ziyang.
+
+myshell v1.2                       April 2016                           CAT(1)
