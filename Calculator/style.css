@@ -1,0 +1,19 @@
+.Key {
+    height:150px;
+    width:150px;
+    background:#FFFFFF;
+    font-size:70px;
+}
+.ExpressionDisplay{
+    height:100px;
+    width:918px;
+    background:#FFFFFF;
+    font-size:50px;
+    text-align: right;
+}
+.infoDisplay{
+    height:60px;
+    width:918px;
+    background:#FFFFFF;
+    font-size:20px;
+}

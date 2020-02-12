@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <title>Calculator</title>
+</head>
+
+<body onload="onReset()">
+    <input class="ExpressionDisplay" type="text" id="expressionDisplay" value=""></input>
+    <br />
+    <button class="Key" id="1" onclick="numBtnOnClick(this)">1</button>
+    <button class="Key" id="2" onclick="numBtnOnClick(this)">2</button>
+    <button class="Key" id="3" onclick="numBtnOnClick(this)">3</button>
+    <button class="Key" id="Del" onclick="delBtnOnClick()">Del</button>
+    <button class="Key" id="=" onclick="equalBtnOnClick(this)">=</button>
+    <button class="Key" id="C" onclick="onReset()">C</button>
+    <br />
+    <button class="Key" id="4" onclick="numBtnOnClick(this)">4</button>
+    <button class="Key" id="5" onclick="numBtnOnClick(this)">5</button>
+    <button class="Key" id="6" onclick="numBtnOnClick(this)">6</button>
+    <button class="Key" id="0" onclick="numBtnOnClick(this)">0</button>
+    <button class="Key" id="+" onclick="opBtnOnClick(this)">+</button>
+    <button class="Key" id="-" onclick="opBtnOnClick(this)">-</button>
+    <br />
+    <button class="Key" id="7" onclick="numBtnOnClick(this)">7</button>
+    <button class="Key" id="8" onclick="numBtnOnClick(this)">8</button>
+    <button class="Key" id="9" onclick="numBtnOnClick(this)">9</button>
+    <button class="Key" id="." onclick="PointBtnOnClick()">.</button>
+    <button class="Key" id="*" onclick="opBtnOnClick(this)">*</button>
+    <button class="Key" id="/" onclick="opBtnOnClick(this)">/</button>
+    <br />
+    <textarea class="infoDisplay" id="info"></textarea>
+    <script src="Script.js">
+    </script>
+</body>
+
+</html>
