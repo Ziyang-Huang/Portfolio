@@ -1,0 +1,10 @@
+For adding command
+
+Please move the exe to the directory of this shell.
+
+Open 'cmd.ls', add a new line as: xxxx     1
+('xxxx' is the name of the command)
+
+Then save it.
+
+That's all.
