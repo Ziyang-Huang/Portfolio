@@ -1,0 +1,14 @@
+1    G123      Wuhan          Nanjing        1    200.00  6    
+2    D55       Nanjing        Shanghai       5    135.00  0    
+3    D24       Wuhan          Changzhou      12   400.00  15   
+4    D123      Nanjing        Shanghai       12   108.75  0    
+5    D24       Chongqing      Changzhou      2    450.00  7    
+6    D3232     Nanjing        Wuxi           1    90.00   1    
+7    D55       Changzhou      Shanghai       2    41.25   5    
+8    D24       Chongqing      Changzhou      12   450.00  9    
+9    D55       Changzhou      Shanghai       12   41.25   8    
+11   D55       Changzhou      Shanghai       4    55.00   0    
+12   D98       Hefei          Chuzhou        12   123.00  0    
+15   D55       Changzhou      Shanghai       12   55.00   3    
+16   G123      Chongqing      Nanjing        2    400.00  17   
+17   D123      Nanjing        Shanghai       2    145.00  16   

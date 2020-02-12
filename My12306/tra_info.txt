@@ -1,0 +1,6 @@
+D55, 100| Nanjing, 0| Danyang, 10| Zhenjiang, 30| Changzhou, 40| Wuxi, 10| Suzhou, 15| Shanghai, 30|
+D98, 100| Nanjing, 0| Hefei, 100| Chuzhou, 123|
+D123, 100| Nanjing, 0| Zhenjiang, 40| Shanghai, 105|
+D3232, 120| Nanjing, 0| Wuxi, 90| Hangzhou, 120|
+G123, 10| Chongqing, 0| Wuhan, 200| Nanjing, 200|
+D24, 200| Chongqing, 0| Wuhan, 200| Changsha, 70| Hefei, 180| Changzhou, 150|
